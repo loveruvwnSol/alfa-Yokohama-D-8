@@ -1,0 +1,8 @@
+@media screen and (max-width: 540px) {
+    .section-title{
+      font-size: 32px;
+    }
+    .text-center{
+      font-size: 13px;
+    }
+  }
