@@ -383,6 +383,17 @@ button:hover{
   height: 24px;
 }
 
+.btn__left__arrow{
+  position: absolute;
+  top: calc(50% - 12px);
+  /* right: 15px; */
+  transform: rotate(-180deg);
+  left: 15px;
+  fill: #fff;
+  width: 12px;
+  height: 24px;
+}
+
 /****************
 * header
 *****************/
